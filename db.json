@@ -1,0 +1,104 @@
+{
+  "users":[
+      {
+        "id": 1,
+        "nama": "Vuma",
+        "alamat": "Kp.Ciames",
+        "umur": 19,
+        "nohp": "081224235251"
+      },
+      {
+        "id": 2,
+        "nama": "Acha kuriyama",
+        "alamat": "Padalarang",
+        "umur": 18,
+        "nohp": "081224235252"
+      },
+      {
+        "id": 3,
+        "nama": "kuriyama",
+        "alamat": "Padalarang",
+        "umur": 19,
+        "nohp": "081224235267"
+      },
+      {
+        "id": 4,
+        "nama": "Sasuke",
+        "alamat": "padang",
+        "umur": 39,
+        "nohp": "081224235267"
+      },
+       {
+        "id": 5,
+        "nama": "naruto",
+        "alamat": "koho",
+        "umur": 49,
+        "nohp": "081224235267"
+      },
+       {
+        "id": 6,
+        "nama": "iran",
+        "alamat": "sono",
+        "umur": 59,
+        "nohp": "081224235267"
+      },
+       {
+        "id": 7,
+        "nama": "sai",
+        "alamat": "irak",
+        "umur": 19,
+        "nohp": "081224235267"
+      },
+       {
+        "id": 8,
+        "nama": "kodo",
+        "alamat": "saouma",
+        "umur": 33,
+        "nohp": "081224235267"
+      },
+       {
+        "id": 9,
+        "nama": "sinso",
+        "alamat": "kago",
+        "umur": 29,
+        "nohp": "081224235267"
+      },
+       {
+        "id": 10,
+        "nama": "sio",
+        "alamat": "padang",
+        "umur": 39,
+        "nohp": "081224235267"
+      },
+       {
+        "id": 11,
+        "nama": "alta",
+        "alamat": "altar",
+        "umur": 29,
+        "nohp": "081224235267"
+      },
+       {
+        "id": 12,
+        "nama": "oroci",
+        "alamat": "kampung",
+        "umur": 59,
+        "nohp": "081224235267"
+      },
+       {
+        "id": 13,
+        "nama": "jiro",
+        "alamat": "sanso",
+        "umur": 99,
+        "nohp": "081224235267"
+      },
+       {
+        "id": 14,
+        "nama": "sikso",
+        "alamat": "cimahi",
+        "umur": 32,
+        "nohp": "081224235267"
+      }
+    ],
+    "error" : false,
+  "profile": { "name": "typicode" }
+}
